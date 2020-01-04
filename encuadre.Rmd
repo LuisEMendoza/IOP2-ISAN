@@ -1,0 +1,61 @@
+---
+title: "Encuadre"
+---
+
+## Fines del aprendizaje o formación
+
+Aplicar modelos matemáticos mediante técnicas probabilísticas y determinísticas en la investigación de operaciones para la resolución de problemas y toma de decisiones óptimas.
+
+## Contenido temático
+
+UNIDAD I. Programación dinámica.
+
+1. Regresión lineal simple.
+2. Regresión lineal múltiple.
+3. Regresión no lineal.
+  
+UNIDAD II. Líneas de espera.
+
+1. Introducción, terminología, notación y casos de aplicación.
+2. Proceso de nacimiento y muerte (modelos Poisson).
+3. Población infinita, un servidor, cola infinita.
+4. Población finita, un servidor, cola finita.
+5. Población infinita, servidores múltiples, cola infinita.
+6. Uso de programa de computación.
+
+UNIDAD III. Teoría de Decisiones.
+
+1. Características generales.
+2. Criterios de decisión deterministas y probabilistas.
+3. Valor de la información perfecta.
+4. Árboles de decisión.
+5. Teoría de utilidad.
+6. Análisis de sensibilidad.
+7. Uso de _software_.
+
+UNIDAD IV. Cadenas de Markov.
+
+1. Introducción.
+2. Probabilidad de transiciones estacionarias de _n_ pasos.
+3. Estado estable.
+4. Estados absorbentes.
+5. Uso de _software_.
+
+UNIDAD V. Optimización de redes.
+
+1. Terminología.
+2. Problema de la ruta más corta.
+3. Problema del árbol de mínima expansión.
+4. Problema de flujo máximo.
+5. Problema de flujo de costo mínimo.
+6. Uso de _software_.
+
+## Criterios de Evaluación.
+
+Criterio | Ponderación
+:---|---:
+Prácticas en _software_| 15%
+Participación en clase | 5%
+Resolución de ejercicios y problemas (clase y extraclase) | 20%
+Exámenes | 60%
+_TOTAL_ | 100%

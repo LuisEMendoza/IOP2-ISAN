@@ -1,0 +1,9 @@
+---
+title: "Instituto Superior de Administración y Negocios"
+---
+
+![](images/logo.png)
+
+## Asignatura
+
+### __Investigación de Operaciones II__
